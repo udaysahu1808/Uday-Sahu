@@ -2,15 +2,6 @@
 
 <h3 align="center">Data Analyst | Business Intelligence Enthusiast | Data Scientist | AI & Machine Learning Learner | Finance Professional</h3>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
-
-
-
-
-
-
 
 
 ## 💫 About Me
