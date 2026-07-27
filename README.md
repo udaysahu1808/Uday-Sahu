@@ -171,7 +171,9 @@ I build **end-to-end data products** from data collection and engineering to pre
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=udaysahu1808&theme=algolia&no-frame=true&margin-w=8)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaysahu1808&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
