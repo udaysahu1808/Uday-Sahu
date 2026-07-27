@@ -104,6 +104,38 @@ I build **end-to-end data products** from data collection and engineering to pre
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
+## 🧠 Analytical Skills
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-9C27B0?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2196F3?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-795548?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FFC107?style=for-the-badge)
+![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-009688?style=for-the-badge)
+![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-D32F2F?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3F51B5?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-673AB7?style=for-the-badge)
+![KPI Development](https://img.shields.io/badge/KPI_Development-00BCD4?style=for-the-badge)
+
+--
+
+## 🤝 Soft Skills
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2196F3?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-673AB7?style=for-the-badge)
+![Decision Making](https://img.shields.io/badge/Decision_Making-FF9800?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-E91E63?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00BCD4?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-3F51B5?style=for-the-badge)
+![Presentation Skills](https://img.shields.io/badge/Presentation_Skills-9C27B0?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time_Management-795548?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-8BC34A?style=for-the-badge)
+![Strategic Thinking](https://img.shields.io/badge/Strategic_Thinking-607D8B?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-009688?style=for-the-badge)
+
 ---
 
 ## 🌐 Connect With Me
