@@ -14,12 +14,12 @@ Data Analytics • Business Intelligence • Data Engineering • Machine Learni
 
 🎓 Computer Science Engineer | MBA (Finance) | Data Science & Analytics with Generative AI
 
-I'm passionate about transforming business challenges into data-driven solutions through **Data Analytics, Business Intelligence, Machine Learning, Data Engineering, and Generative AI**.
+I'm passionate about transforming business challenges into data-driven solutions through **Data Analytics, Business Intelligence, Machine Learning, Data Engineering and Generative AI**.
 
-I build **end-to-end data products**—from data collection and engineering to predictive modeling, interactive dashboards, and AI-powered decision support systems. I also enjoy sharing knowledge through technical articles on **Medium**, showcasing practical projects on **GitHub**, and documenting my learning journey on **LinkedIn**.
+I build **end-to-end data products** from data collection and engineering to predictive modeling, interactive dashboards and AI-powered decision support systems. I also enjoy sharing knowledge through technical articles on **Medium**, showcasing practical projects on **GitHub** and documenting my learning journey on **LinkedIn**.
 
 🏆 **Highlights**
-- 👨‍💼 President – Research Cell
+- 👨‍💼 President Research Cell
 - 📖 Published Research Paper
 - 🏅 Best Leader Award (2020 & 2023)
 - 💼 Finance & Investment Analytics Experience
