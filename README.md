@@ -67,11 +67,22 @@ I build **end-to-end data products** from data collection and engineering to pre
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🤖 Machine Learning & AI
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-00599C?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-FF6F61?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF1493?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-6A0DAD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-008080?style=for-the-badge)
+![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-00A67E?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge)
 
 ### ☁️ Data Engineering & Cloud
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
