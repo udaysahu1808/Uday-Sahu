@@ -112,6 +112,7 @@ I build **end-to-end data products** from data collection and engineering to pre
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2196F3?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Data_Storytelling-6A5ACD?style=for-the-badge)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-795548?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FFC107?style=for-the-badge)
 ![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-009688?style=for-the-badge)
