@@ -105,7 +105,7 @@ I build **end-to-end data products** from data collection and engineering to pre
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### 🧠 Analytical Skills
+### 🧠 Business Intelligence & Analytical Skills
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge)
 ![Exploratory Data Analysis](https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-9C27B0?style=for-the-badge)
