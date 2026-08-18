@@ -50,6 +50,187 @@ I build **end-to-end data products** from data collection and engineering to pre
 - Retrieval-Augmented Generation (RAG)
 - Enterprise AI
 
+
+---
+
+## 🚀 Featured Projects
+
+A portfolio of end-to-end analytics, risk intelligence, machine learning, and Generative AI projects built around real-world business problems.
+
+### 💳 1. FinShield AI Assistant — Intelligent Financial Risk Intelligence Platform
+**Python • SQL • Machine Learning • SHAP • NLP • ARIMA • Streamlit • Explainable AI**
+
+An end-to-end financial intelligence platform that transforms customer, credit, transaction, market, economic, and news data into a unified **FinShield Score (0–1000)**.
+
+**Key capabilities:**
+- Credit-risk classification using Logistic Regression and Random Forest
+- Fraud/anomaly detection using Isolation Forest
+- Market forecasting using ARIMA
+- Financial-news sentiment analysis using TF-IDF
+- Explainable AI using SHAP for customer-level risk explanations
+- Composite financial-health scoring and risk monitoring
+- AI recommendation engine for actionable risk decisions
+- Interactive Streamlit chatbot for customer risk lookup
+- Power BI-ready outputs for executive reporting
+
+🔗 [View Project](https://github.com/udaysahu1808/FinShield-AI-Assistant)
+
+---
+
+### 🤖 2. FinShield AI Assistant — Live Multimodal Chatbot
+**Python • Streamlit • Groq • LLM • Vision AI • Whisper • Financial Analytics**
+
+A browser-based version of FinShield Copilot that converts the analytical risk engine into an interactive AI assistant.
+
+**Key capabilities:**
+- Natural-language financial risk conversations
+- Advanced customer lookup across the 60,000-customer dataset
+- Streaming AI responses
+- Image/chart/document understanding
+- Voice/audio upload and transcription
+- Grounded responses using FinShield risk, market, sentiment, and customer outputs
+
+🔗 [View Project](https://github.com/udaysahu1808/FinShield-AI-Assistant-Chatbot)
+
+---
+
+### 🌍 3. Geopolitical Risk Scoring System
+**Python • SQL • Machine Learning • Power BI • Risk Analytics**
+
+An end-to-end geopolitical intelligence system that converts historical conflict data and simulated modern escalation scenarios into a quantified **Geopolitical Risk Index (0–100)**.
+
+**Key capabilities:**
+- SQL-based data storage and business analytics
+- Historical conflict analysis
+- Feature engineering and risk-index construction
+- Predictive risk-tier classification
+- Anomaly detection
+- Conflict archetype clustering
+- Country-level risk monitoring
+- Interactive Power BI dashboard for decision support
+
+🔗 [View Project](https://github.com/udaysahu1808/Geopolitical-Risk-Scoring-System)
+
+---
+
+### 💳 4. Credit Card Customer Risk Analysis & Default Prediction
+**Python • Pandas • NumPy • EDA • Plotly • Seaborn • Power BI**
+
+A financial-risk analytics project focused on identifying customer characteristics and behavioral patterns associated with credit-card default risk.
+
+**Key capabilities:**
+- Exploratory and statistical analysis
+- Customer risk-factor identification
+- Feature engineering
+- Default-risk segmentation
+- Interactive visual analytics
+- Executive Power BI risk-monitoring dashboard
+- Business recommendations for credit-risk management
+
+🔗 [View Project](https://github.com/udaysahu1808/Credit-Card-Risk-Analysis)
+
+---
+
+### 🚦 5. Accident Severity Prediction & Risk Analytics
+**Python • Machine Learning • Power BI • NumPy • Scikit-learn • Plotly • EDA**
+
+An end-to-end road-safety analytics project analyzing traffic accident data to identify factors influencing accident severity and support data-driven safety decisions.
+
+**Key capabilities:**
+- Comprehensive EDA
+- Accident risk-factor analysis
+- Driver, vehicle, road, and environmental analysis
+- Severity-oriented predictive analytics
+- Interactive Power BI dashboard
+- Business and road-safety recommendations
+- Foundation for advanced Random Forest, XGBoost, and LightGBM modeling
+
+🔗 [View Project](https://github.com/udaysahu1808/Accident-Severity-Prediction-Risk-Analytics)
+
+---
+
+### 🚦 6. Automated Accident Severity Prediction & Risk Analytics
+**Python • YData Profiling • AutoViz • DTale • SQL • Feature Engineering • Power BI**
+
+An automation-focused accident analytics project designed to accelerate the exploratory analysis of road-accident datasets.
+
+**Key capabilities:**
+- Automated EDA using YData Profiling
+- Automated visualization using AutoViz
+- Interactive data exploration using DTale
+- Data-quality assessment
+- SQL analysis
+- Feature engineering
+- Accident-severity and risk analysis
+- Power BI-based actionable road-safety insights
+
+🔗 [View Project](https://github.com/udaysahu1808/Automated-Accident-Severity-Prediction-Risk-Analytics)
+
+---
+
+### 🧹 7. Accident Severity Prediction & Data Quality Analysis
+**Python • Data Quality • EDA • Machine Learning • KNN Imputation • Risk Analytics**
+
+A data-quality-focused road-accident project investigating how missing values, duplicate records, and different imputation strategies affect analytical reliability and machine-learning readiness.
+
+**Key capabilities:**
+- Missing-value and duplicate analysis
+- Data-integrity assessment
+- Comparison of multiple missing-data strategies
+- Unknown-value handling
+- Median/Mode imputation
+- KNN imputation
+- Accident-risk and severity analysis
+- Actionable road-safety insights
+
+🔗 [View Project](https://github.com/udaysahu1808/Accident-Severity-Prediction-Data-Quality-Analysis)
+
+---
+
+### 💬 8. Customer Feedback Analysis & Automated Response
+**Python • NLP • Rule-Based Analytics • Generative AI • Customer Experience Analytics**
+
+A transparent Python pipeline that converts **10,000 restaurant reviews** into a prioritized action list and AI-assisted customer-response workflow.
+
+**Key capabilities:**
+- Automated identification of critical 1–2 star reviews
+- Review prioritization
+- Recurring complaint-theme extraction
+- Keyword-frequency analysis
+- Customer-feedback analytics
+- Generative AI-assisted apology-email drafting
+- Action-oriented support workflow without requiring a trained ML model
+
+🔗 [View Project](https://github.com/udaysahu1808/Customer-Feedback-Analysis-and-Automated-Response)
+
+---
+
+### 🎮 9. Rock-Paper-Scissors Game
+**Python • Programming Fundamentals • Game Logic**
+
+A lightweight standalone Rock-Paper-Scissors project demonstrating basic programming and game-logic implementation.
+
+🔗 [View Project](https://github.com/udaysahu1808/Rock-Paper-Scissors-Game)
+
+---
+
+### 📊 Project Portfolio at a Glance
+
+| Project | Primary Domain | Core Technologies |
+|---|---|---|
+| FinShield AI Assistant | Financial Risk + AI | Python, SQL, ML, SHAP, NLP, ARIMA, Streamlit |
+| FinShield AI Chatbot | Generative AI + FinTech | Python, Streamlit, Groq, LLM, Vision, Whisper |
+| Geopolitical Risk Scoring | Risk Intelligence | Python, SQL, ML, Power BI |
+| Credit Card Risk Analysis | Financial Analytics | Python, EDA, Plotly, Power BI |
+| Accident Severity Prediction | Road Safety + ML | Python, ML, Power BI |
+| Automated Accident Analytics | Auto-EDA + Risk Analytics | YData, AutoViz, DTale, SQL, Power BI |
+| Accident Data Quality Analysis | Data Quality + ML | Python, EDA, Imputation, ML |
+| Customer Feedback Automation | NLP + GenAI | Python, NLP, GenAI |
+| Rock-Paper-Scissors | Programming | Python |
+
+> **Portfolio theme:** From **Data Analytics → Business Intelligence → Machine Learning → Risk Intelligence → Data Engineering → Generative AI**, with a strong focus on solving practical business problems.
+
+
 ---
 
 ## 💻 Tech Stack
@@ -207,3 +388,4 @@ I build **end-to-end data products** from data collection and engineering to pre
 ---
 
 > **"Data tells the story. Analytics reveals the insight. AI drives the decision."** 🚀
+
