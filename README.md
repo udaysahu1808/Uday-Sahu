@@ -189,7 +189,7 @@ An automation-focused accident analytics project designed to accelerate the expl
 ### 🧹 8. Accident Severity Prediction & Data Quality Analysis
 **Python • Data Quality • EDA • Machine Learning • KNN Imputation • Risk Analytics**
 
-A data-quality-focused road-accident project investigating how missing values, duplicate records, and different imputation strategies affect analytical reliability and machine-learning readiness.
+A data-quality-focused road-accident project investigating how missing values, duplicate records and different imputation strategies affect analytical reliability and machine-learning readiness.
 
 **Key capabilities:**
 - Missing-value and duplicate analysis
