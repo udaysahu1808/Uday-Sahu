@@ -157,7 +157,7 @@ An end-to-end road-safety analytics project analyzing traffic accident data to i
 **Key capabilities:**
 - Comprehensive EDA
 - Accident risk-factor analysis
-- Driver, vehicle, road, and environmental analysis
+- Driver, vehicle, road and environmental analysis
 - Severity-oriented predictive analytics
 - Interactive Power BI dashboard
 - Business and road-safety recommendations
