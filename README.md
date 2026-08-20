@@ -161,7 +161,7 @@ An end-to-end road-safety analytics project analyzing traffic accident data to i
 - Severity-oriented predictive analytics
 - Interactive Power BI dashboard
 - Business and road-safety recommendations
-- Foundation for advanced Random Forest, XGBoost, and LightGBM modeling
+- Foundation for advanced Random Forest, XGBoost and LightGBM modeling
 
 🔗 [View Project](https://github.com/udaysahu1808/Accident-Severity-Prediction-Risk-Analytics)
 
